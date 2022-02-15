@@ -1,7 +1,5 @@
 # drug_consumption
 Drug consumption prediction 
- 
- *(описание на русском языке находится ниже)*
 
 ## ENG
 
@@ -11,7 +9,7 @@ Predict, based on various biological and psychological features, if person is ad
 
 ### Where can such problem be applied?
 
-Knowledge about potential person addictions can be usefull when hiring employees on critically important facilities, security forces, on resposible positions in companies (managment, for example)
+Knowledge about potential person drug consumptions can be usefull when hiring employees on critically important facilities, security forces, on resposible positions in companies (managment, for example). 
 
 ### Stages performed in this work
 
