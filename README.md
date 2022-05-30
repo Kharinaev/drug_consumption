@@ -18,6 +18,7 @@ Knowledge about potential person drug consumptions can be usefull when hiring em
 - selection and coding of categorical features 
 - training and selection of models (SVC, LogReg, RandomForest, CatBoost)
 - estimation of the predition accuracy of the final model
+- feature importance analysis
 
 ## RU
 
@@ -36,3 +37,4 @@ Knowledge about potential person drug consumptions can be usefull when hiring em
 - отбор и кодирование категориальных признаков
 - обучение и отбор моделей  (SVC, LogReg, RandomForest, CatBoost)
 - оценка предсказательной точности конечной модели
+- анализ важности признаков
